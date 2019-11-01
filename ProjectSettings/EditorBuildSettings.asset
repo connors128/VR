@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Demo/Demo.unity
+  - enabled: 0
+    path: Assets/Demo/Scenes/Demo.unity
     guid: 63b643dd11755ac439bf81a35dfb8cdc
+  - enabled: 1
+    path: Assets/TennisTry.unity
+    guid: 665f6fa74416d48908fa671bc0cbe446
   m_configObjects: {}
